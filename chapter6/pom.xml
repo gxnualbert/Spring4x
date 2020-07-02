@@ -77,6 +77,6 @@
         <commons-codec.version>1.9</commons-codec.version>
         <commons-lang.version>2.0</commons-lang.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
-        <mysql.version>5.1.29</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
     </properties>
 </project>
