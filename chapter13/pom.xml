@@ -84,7 +84,7 @@
         <spring.version>4.2.2.RELEASE</spring.version>
         <slf4j.version>1.7.5</slf4j.version>
         <junit.version>4.10</junit.version>
-        <mysql.version>5.1.29</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jetty.version>8.1.8.v20121106</jetty.version>
     </properties>
