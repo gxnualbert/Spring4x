@@ -230,7 +230,7 @@
         <servlet.version>3.0-alpha-1</servlet.version>
         <asm.version>4.0</asm.version>
         <cglib.version>3.0</cglib.version>
-        <poi.version>3.12</poi.version>
+        <poi.version>3.17</poi.version>
         <aspectj.version>1.8.1</aspectj.version>
         <aopalliance.version>1.0</aopalliance.version>
         <commons-codec.version>1.9</commons-codec.version>
