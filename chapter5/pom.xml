@@ -100,7 +100,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
 
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <groovy.version>2.3.6</groovy.version>
         <mockito.version>1.10.19</mockito.version>
         <testng.version>6.8.7</testng.version>
