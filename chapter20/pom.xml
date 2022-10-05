@@ -240,7 +240,7 @@
         <slf4j.version>1.7.5</slf4j.version>
         <mysql.version>5.1.29</mysql.version>
 
-        <jackson.version>2.7.4</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
         <mockito.version>1.10.19</mockito.version>
         <testng.version>6.8.7</testng.version>
         <unitils.version>3.4.2</unitils.version>
