@@ -92,6 +92,6 @@
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jetty.version>8.1.8.v20121106</jetty.version>
         <aspectjweaver.version>1.6.8</aspectjweaver.version>
-        <hibernate.version>4.2.0.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
     </properties>
 </project>
