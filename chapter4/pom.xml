@@ -35,7 +35,7 @@
 
     <properties>
         <file.encoding>UTF-8</file.encoding>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <groovy.version>2.3.6</groovy.version>
     </properties>
 </project>
