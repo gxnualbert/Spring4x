@@ -81,7 +81,7 @@
         <mysql.version>5.1.29</mysql.version>
         <servlet.version>3.0-alpha-1</servlet.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
-        <spring.version>4.2.2.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <aspectjweaver.version>1.6.8</aspectjweaver.version>
         <slf4j.version>1.7.5</slf4j.version>
     </properties>
